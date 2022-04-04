@@ -12,12 +12,21 @@
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^4.0.1",
-    "dotenv": "^8.2.0",
-    "express": "^4.17.1",
-    "mysql2": "^2.1.0",
-    "sequelize": "^5.21.5"
+    "dotenv": "^8.6.0",
+    "express": "^4.17.3",
+    "mysql2": "^2.3.3",
+    "sequelize": "^5.22.5"
   },
   "devDependencies": {
     "jest": "^25.1.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JCLOS305/just-tech-news.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/JCLOS305/just-tech-news/issues"
+  },
+  "homepage": "https://github.com/JCLOS305/just-tech-news#readme"
 }
