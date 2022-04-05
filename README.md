@@ -1,4 +1,4 @@
-# 'Travelers Wish List'Created by Jeancarlos Mulet & Wilmer Ojeda w/ 🙌 The University of Miami 🙌
+# 'Travelers Wish List'Created by Jeancarlos Mulet , Wilmer Ojeda , Miguel Mulet, & Aaron Jardine w/ 🙌 The University of Miami 🙌
 
 ## Description
 
@@ -83,13 +83,17 @@ In order of apperance
 
 [Wilmer Ojeda](https://github.com/wilmerojeda13)
 
+[Miguell Mulet]()
+
+[Aaron Jardine]()
+
 [PLEASE GIVE THEM A FOLLOW THEY ARE AMAZING DEVELOPERS]
 
 ## License
 
 MIT License
 
-Copyright (c) 2022 Jeancarlos , Wilmer
+Copyright (c) 2022 Jeancarlos , Wilmer , Miguel, Aaron
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
