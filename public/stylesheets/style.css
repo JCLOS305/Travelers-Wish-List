@@ -158,6 +158,7 @@ main {
 .comment {
   padding: 1%;
   margin-bottom: 1%;
+  background-color: #9e9a97;
 }
 
 .comment:nth-child(odd) {
