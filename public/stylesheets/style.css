@@ -7,7 +7,8 @@ body, html {
   padding: 0;
   margin: 0;
   font-family: sans-serif;
-  color: rgb(0, 0, 0);
+  color: rgb(21, 136, 178);
+  text-shadow: 1px 1px #0c0b0b;
   background-size: cover;
  
 }
@@ -58,6 +59,7 @@ textarea, input {
 textarea:focus, input:focus {
   outline: none;
   border: 1px solid #0c0b0b;
+  text-shadow: 1px 1px #ffffff;
 }
 
 textarea {
@@ -72,6 +74,9 @@ form > div {
 
 form label {
   display: block;
+  color: rgb(21, 136, 178);
+  opacity: 100 ;
+  text-shadow: 1px 1px #000000;
 }
 
 .wrapper {
@@ -100,6 +105,23 @@ main {
   padding: 2% 4%;
 }
 
+
+h2 {
+color: white;
+opacity: 100 ;
+  text-shadow: 1px 1px #000000;
+}
+
+h3 {
+  font-size: 15px;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: white;
+  opacity: 100 ;
+    text-shadow: 1px 1px #000000;
+  }
+  
+
+
 .btn-no-style {
   background: none;
   border: none;
@@ -115,7 +137,7 @@ main {
 
 .btn-no-style:hover {
   background: none;
-  color: #3486eb;
+  color: rgb(21, 136, 178);
 }
 
 .delete-post-btn {
@@ -134,7 +156,10 @@ main {
 .post .title span {
   font-style: bold;
   font-size: 90%;
-  color: #000000;
+
+  color: rgb(25, 150, 196);
+  opacity: 100 ;
+  text-shadow: 1px 1px #000000
 }
 
 .edit-link {
