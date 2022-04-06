@@ -7,19 +7,22 @@ body, html {
   padding: 0;
   margin: 0;
   font-family: sans-serif;
-  color: #333;
+  color: rgb(0, 0, 0);
   background-size: cover;
  
 }
 
 a {
   text-decoration: none;
-  color: #225ca3;
+  color: whitesmoke;
   font-weight: bold;
   transition: color .1s;
 }
 body {
-  background-color: #ccc;
+  background-color: black;
+  background-image: url("/images/waves bg.gif");
+  
+
 }
 
 a:hover {
@@ -54,13 +57,14 @@ textarea, input {
 
 textarea:focus, input:focus {
   outline: none;
-  border: 1px solid #3486eb;
+  border: 1px solid #0c0b0b;
 }
 
 textarea {
   min-width: 40%;
   min-height: 100px;
 }
+
 
 form > div {
   margin-bottom: 2%;
@@ -111,7 +115,7 @@ main {
 
 .btn-no-style:hover {
   background: none;
-  color: #3486eb;
+  color: #0c79ff;
 }
 
 .delete-post-btn {
@@ -128,9 +132,9 @@ main {
 }
 
 .post .title span {
-  font-style: italic;
+  font-style: bold;
   font-size: 90%;
-  color: #7d7d7d;
+  color: #000000;
 }
 
 .edit-link {
@@ -139,12 +143,12 @@ main {
 }
 
 .upvote-btn {
-  background-color: #197d0f;
+  background-color: #1f9c13;
   transition: background-color .1s;
 }
 
 .upvote-btn:hover {
-  background-color: #1f9c13;
+  background-color: #28c01a;
 }
 
 .comment-form {
