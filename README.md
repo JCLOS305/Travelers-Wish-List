@@ -55,7 +55,7 @@ Enter local root PW.
 
 ![HOMEPAGE](https://github.com/JCLOS305/Travelers-Wish-List/blob/main/public/images/homepage.PNG?raw=true)
 
-- The Dashboard is where all relative information is stored, this app can be used publicly or privately, if you share your development link with friends and family they can also sign up and sign in and add their own information!
+- The Dashboard is where all relative information is stored, this app can be used publicly or privately, if you share your development link with friends and family they can also sign up and sign in to add their own information!
 
 ![LOGIN](https://github.com/JCLOS305/Travelers-Wish-List/blob/main/public/images/login-page.PNG?raw=true)
 
