@@ -54,11 +54,20 @@ Enter local root PW.
 `npm start`
 
 ![HOMEPAGE](https://github.com/JCLOS305/Travelers-Wish-List/blob/main/public/images/homepage.PNG?raw=true)
-"The Dashboard is where all relative information is stored, this app can be used publicly or privately, if you share your development link with friends and family they can also sign up and sign in and add their own information!
+
+- The Dashboard is where all relative information is stored, this app can be used publicly or privately, if you share your development link with friends and family they can also sign up and sign in and add their own information!
 
 ![LOGIN](https://github.com/JCLOS305/Travelers-Wish-List/blob/main/public/images/login-page.PNG?raw=true)
+
+- The login page stores logins to your backend and saves them so your progress does not get lost
+
 ![DASHBOARD](https://github.com/JCLOS305/Travelers-Wish-List/blob/main/public/images/dashboard.PNG?raw=true)
+
+- The dashboard is where you will be able to add new and see exisiting posts that you (and your friends) have created
+
 ![commentSection](https://github.com/JCLOS305/Travelers-Wish-List/blob/main/public/images/comment-section.PNG?raw=true)
+
+- The 'Comment Section' is where you will be able to add comments to exisiting post and engage with other users.
 
 ## Testing
 
