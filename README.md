@@ -53,9 +53,9 @@ Enter local root PW.
   
 `npm start`
 
-![SCREENSHOT1] ()
-![SCREENSHOT2] ()
-![SCREENSHOT3] ()
+![HOMEPAGE](https://github.com/JCLOS305/Travelers-Wish-List/blob/main/public/images/homepage.PNG?raw=true)
+![DASHBOARD](https://github.com/JCLOS305/Travelers-Wish-List/blob/main/public/images/dashboard.PNG?raw=true)
+![commentSection](https://github.com/JCLOS305/Travelers-Wish-List/blob/main/public/images/comment-section.PNG?raw=true)
 
 ## Testing
 
