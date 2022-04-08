@@ -132,4 +132,4 @@ SOFTWARE.
 ![UOM](https://img.shields.io/badge/University%20of-Miami-orange)
 
 
-© April 2022  Jeancarlos, Wilmer - University of Miami
+© April 2022  Jeancarlos, Wilmer, Miguel, Aaron - University of Miami
