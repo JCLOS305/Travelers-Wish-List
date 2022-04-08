@@ -26,7 +26,7 @@ SO THAT my future vacations can have structure
 
 ## Deployment
 
-[Travelers Wish List](#https://fierce-cove-76693.herokuapp.com/)
+[Travelers Wish List](https://fierce-cove-76693.herokuapp.com/)
   
 
 
