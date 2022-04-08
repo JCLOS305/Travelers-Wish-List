@@ -1,4 +1,4 @@
-# 'Travelers Wish List'Created by Jeancarlos Mulet , Wilmer Ojeda , Miguel Mulet, & Aaron Jardine w/ 🙌 The University of Miami 🙌
+# 'Travelers Wish List' Created by Jeancarlos Mulet w/ 🙌 The University of Miami 🙌
 
 ## Description
 
