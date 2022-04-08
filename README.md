@@ -2,8 +2,10 @@
 
 ## Description
 
-'Travelers Wish List' is a blog style app dedicated to help you and your friends keep track of your future vacations!
-'Travelers Wish List' was created with the forgetful millenial in mind
+
+Travelers Wish List is an app for people who need structure in their lives and want to structure what happens on their next vacation!  Travelers Wish List makes this easier than ever, by preparing all tasks and links and waiting for them in one place. At the heart of visual daily planner, Travelers Wish List is the app you've been looking for. Whether you want to plan your day and reduce distractions, or need to see your day clearly to avoid worrying about missing something or leaving certain items behind, Travelers Wish List has you covered. With just a few clicks, you can import your first job, decide when to run it, and start your day.
+
+
 
 ## Table of Contents
 - [Description](#description)
