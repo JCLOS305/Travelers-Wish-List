@@ -68,7 +68,7 @@ Enter local root PW.
 
 ![commentSection](https://github.com/JCLOS305/Travelers-Wish-List/blob/main/public/images/comment-section.PNG?raw=true)
 
-- The 'Comment Section' is where you will be able to add comments to exisiting post and engage with other users.
+- The 'Comment Section' is where you will be able to add comments to exisiting posts and engage with other users.
 
 ## Testing
 
