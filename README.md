@@ -105,7 +105,7 @@ In order of apperance
 
 MIT License
 
-Copyright (c) 2022 Jeancarlos , Wilmer.
+Copyright (c) 2022 JeanCarlos , Wilmer.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -132,4 +132,4 @@ SOFTWARE.
 ![UOM](https://img.shields.io/badge/University%20of-Miami-orange)
 
 
-© April 2022  Jeancarlos &  Wilmer - University of Miami
+© April 2022  JeanCarlos &  Wilmer - University of Miami
