@@ -51,11 +51,11 @@ article {
 textarea, input {
   padding: .5%;
   border-radius: 10px;
-  border: 1px solid #ccc;
+  border: 1px solid rgb(18, 17, 17);
 }
 textarea:focus, input:focus {
   outline: none;
-  border: 1px solid #3486EB;
+  border: 1px solid #000000;
 }
 textarea {
   min-width: 40%;
@@ -83,7 +83,7 @@ form label {
   justify-content: space-between;
   align-items: center;
   background: #111;
-  color: #ccc;
+  color: rgb(0, 0, 0);
   z-index: 1000;
 }
 .wrapper h1 {
@@ -171,7 +171,7 @@ main {
 .post .title span {
   font-style: italic;
   font-size: 90%;
-  color: #7D7D7D;
+  color: #ffffff;
 }
 .edit-link {
   display: block;
@@ -191,7 +191,7 @@ main {
 .comment {
   padding: 1%;
   margin-bottom: 1%;
-  background-color:#FFF56D;
+  background-color:#9cddfd;
   border-top-left-radius: 10px;
   border-top-right-radius: 10px;
   border-bottom-right-radius: 10px;
@@ -199,7 +199,7 @@ main {
   width: 50%;
 }
 .comment:nth-child(odd) {
-  background-color:#FFF56D;
+  background-color:#eaeaea;
   border-top-left-radius: 10px;
   border-top-right-radius: 10px;
   border-bottom-right-radius: 10px;
