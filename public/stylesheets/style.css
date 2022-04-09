@@ -69,8 +69,9 @@ form label {
 }
 .logo img {
   position: absolute;
-  margin-top: 15px;
-  max-width: 70px;
+  margin-left: 700px;
+  margin-top: -10px;
+  max-width: 100px;
   opacity: 0.5;
   top: 0;
 }
@@ -87,7 +88,7 @@ form label {
   z-index: 1000;
 }
 .wrapper h1 {
-  padding-left: 820px;
+  padding-left: 20px;
 }
 .wrapper img{
   position: absolute;
@@ -224,13 +225,13 @@ ol {
 .footer {
   background:#ccc;
   color: #000; ;
-  height: 80px;
+  height: 70px;
   position: fixed;
   display: flex;
   width: 100%;
   left: 0;
   bottom: 0;
-  border-top-left-radius: 150px;
+  border-top-left-radius: 180px;
   font-size: 15px;
   line-height: 20px;
 }
@@ -241,5 +242,5 @@ ol {
   position: absolute;
   bottom: 0px;
   left: 20px;
-  padding-top: 20px;
+  padding-top: 5px;
 }
