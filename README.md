@@ -88,7 +88,7 @@ and directions from my Instructor
 
 - Felicia O'Garra
 
-this specific projects was created bt 4 developers
+this specific projects was created by 2 developers
 
 In order of apperance 
 
@@ -96,9 +96,8 @@ In order of apperance
 
 [Wilmer Ojeda](https://github.com/wilmerojeda13)
 
-[Miguell Mulet]()
 
-[Aaron Jardine]()
+
 
 [PLEASE GIVE THEM A FOLLOW THEY ARE AMAZING DEVELOPERS]
 
@@ -106,7 +105,7 @@ In order of apperance
 
 MIT License
 
-Copyright (c) 2022 Jeancarlos , Wilmer , Miguel, Aaron
+Copyright (c) 2022 Jeancarlos , Wilmer.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -133,4 +132,4 @@ SOFTWARE.
 ![UOM](https://img.shields.io/badge/University%20of-Miami-orange)
 
 
-© April 2022  Jeancarlos, Wilmer, Miguel, Aaron - University of Miami
+© April 2022  Jeancarlos &  Wilmer - University of Miami
