@@ -1,23 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
-  
-
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Travelers Wish List</title>
   <link rel="stylesheet" href="/stylesheets/style.css">
-  <img src="\images\travelers_wish_list-logos_white2.png" height="200px">
 </head>
-
 <body>
-  
-
   <div class="wrapper">
     <header>
-      <h1>
-        <a href="/">Travelers Wish List</a>
-      </h1>
+      <h2 class="logo"><a href="/"><img src="/images/travelers_wish_list-logos_white.png" alt=""></a></h2>
+      <h1><a href="/">Travelers Wish List</a> </h1>
       <nav>
         {{#if loggedIn}}
         <a href="/dashboard">Dashboard</a>
@@ -27,19 +20,24 @@
         {{/if}}
       </nav>
     </header>
+    <video src="/images/video.mp4" muted loop autoplay></video>
+    <div class="overlay"></div>
     <main>
       {{{ body }}}
     </main>
-    <footer> 
-      
-      <h3>'Travelers Wish List™' broght to you by Jeancarlos, Wilmer, Miguel, and Aarom </h3>
-    
-    </footer>
+    <div class="footer">
+      <div class="footer-content">
+        <div class="footer-section about"></div>
+        <div class="footer-section links"></div>
+        <div class="footer-section contact-form"></div>
+        <div class="footer-bottom">
+          &copy; Website Design | Designed by Wilmer,Jean Carlos
+        </div>
+      </div>
+    </div>
   </div>
-  
   {{#if loggedIn}}
   <script src="/javascript/logout.js"></script>
   {{/if}}
 </body>
-
 </html>
